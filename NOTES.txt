@@ -4,4 +4,4 @@ Okay. This is just a dummy file.
 
 Any notice should be put in this file.
 
-This line is added from Dell 7510.
+This line is added from Dell Precision 7510.
