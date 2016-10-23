@@ -2,3 +2,4 @@ Put your notices here.
 
 Okay. This is just a dummy file.
 
+Any notice should be put in this file.
